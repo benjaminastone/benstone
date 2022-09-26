@@ -2,18 +2,25 @@
 
 ---
 
-### Category Name 1 
+### Current Projects
 
 [Suitability Study for Electric Vehicle Charging Stations](/sample_page)
 <img src="images/Stone_OU_MCDA_EV_Suitability_Study.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[State Parks in South Dakota](/sample_page)
+<img src="images/Stone_OU_Python_StateParks_SouthDakota.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Project 4 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Project 5 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
