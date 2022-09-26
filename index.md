@@ -15,7 +15,7 @@
 ---
 
 [State Parks in South Dakota, using pgAdmin4/SQL, & Writing Sample](/pdf/Stone_OU_DataManagement_TermProject_SDParks.pdf)
-<img src="images/Stone_OU_DataManagement_TermProject_CodeExample.png)?raw=true"/>
+<img src="images/Stone_OU_DataManagement_TermProject_CodeExample.png?raw=true"/>
 
 ---
 
