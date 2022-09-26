@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Suitability Study for Electric Vehicle Charging Stations](/sample_page)
+<img src="images/Stone_OU_MCDA_EV_Suitability_Study.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
