@@ -8,19 +8,22 @@
 <img src="images/Stone_OU_MCDA_EV_Suitability_Study.jpg?raw=true"/>
 
 ---
-[State Parks in South Dakota](/sample_page)
+
+[State Parks in South Dakota, using Python](/sample_page)
 <img src="images/Stone_OU_Python_StateParks_SouthDakota.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Project 4 Title](/pdf/sample_presentation.pdf)
+[State Parks in South Dakota, using pgAdmin4/SQL, & Writing Sample](/pdf/Stone_OU_DataManagement_TermProject_SDParks.pdf)
+<img src="images/Stone_OU_DataManagement_TermProject_CodeExample.png)?raw=true"/>
+
+---
+
+[Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [Project 5 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 
 ---
 
