@@ -19,6 +19,10 @@
 
 ---
 
+[![State Parks in South Dakota, using ArcGIS Online](images/sd_park_map.png)]
+
+---
+
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
