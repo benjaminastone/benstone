@@ -19,8 +19,7 @@
 
 ---
 
-[![State Parks in South Dakota, using ArcGIS Online](images/sd_park_map.png)]
-
+[![State Parks in South Dakota, using ArcGIS Online](images/sd_park_map.PNG)](https://arcg.is/H5izW)
 ---
 
 [Project 3 Title](http://example.com/)
