@@ -23,8 +23,8 @@ State Parks in South Dakota, using ArcGIS Online:
 [![State Parks in South Dakota, using ArcGIS Online](images/sd_park_map.PNG)](https://arcg.is/H5izW)
 ---
 
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sentinel Fire Monitoring, using Google Earth Editor:](https://benjaminstone.users.earthengine.app/view/sentinel-fire-monitoring-split-map)
+<img src="sentinel-fire-split-map.png?raw=true"/>
 
 [Project 5 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
