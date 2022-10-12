@@ -24,12 +24,7 @@ State Parks in South Dakota, using ArcGIS Online:
 ---
 
 [Sentinel Fire Monitoring, using Google Earth Editor:](https://benjaminstone.users.earthengine.app/view/sentinel-fire-monitoring-split-map)
-<br><br>
-(Please allow a few moments to fully load imagery.)
-[![(images/sentinel-fire-split-map.png)]](https://benjaminstone.users.earthengine.app/view/sentinel-fire-monitoring-split-map)
-
-[Project 5 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/sentinel-fire-split-map.png?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
