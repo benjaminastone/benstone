@@ -19,7 +19,7 @@ Suitability Study for Electric Vehicle Charging Stations
 
 ---
 
-State Parks in South Dakota, using ArcGIS Online:
+[State Parks in South Dakota, using ArcGIS Online:](https://arcg.is/H5izW)
 [![State Parks in South Dakota, using ArcGIS Online](images/sd_park_map.PNG)](https://arcg.is/H5izW)
 ---
 
