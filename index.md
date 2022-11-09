@@ -2,7 +2,7 @@
 
 ---
 
-### Current Projects
+### Past Projects
 
 Suitability Study for Electric Vehicle Charging Stations
 <img src="images/Stone_OU_MCDA_EV_Suitability_Study.jpg?raw=true"/>
