@@ -9,7 +9,7 @@ Suitability Study for Electric Vehicle Charging Stations
 
 ---
 
-[State Parks in South Dakota, using Python]
+State Parks in South Dakota, using Python
 [Main Python file](/pdf/BStone_Main.py) [Module Python file](/pdf/BStone_MyModule.py)
 <img src="images/Stone_OU_Python_StateParks_SouthDakota.png?raw=true"/>
 
