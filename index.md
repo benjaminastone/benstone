@@ -23,6 +23,7 @@ State Parks in South Dakota, using Python
 
 [State Parks in South Dakota, using ArcGIS Online:](https://arcg.is/H5izW)
 [![State Parks in South Dakota, using ArcGIS Online](images/sd_park_map.PNG)](https://arcg.is/H5izW)
+
 ---
 
 [Sentinel Fire Monitoring, using Google Earth Editor:](https://benjaminstone.users.earthengine.app/view/sentinel-fire-monitoring-split-map)
@@ -32,5 +33,6 @@ Austin Texas School Transitsheds
 <img src="images/Austin_High_School_Transitsheds.jpg?raw=true"/>
 
 ---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
