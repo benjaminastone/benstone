@@ -28,6 +28,9 @@ State Parks in South Dakota, using Python
 [Sentinel Fire Monitoring, using Google Earth Editor:](https://benjaminstone.users.earthengine.app/view/sentinel-fire-monitoring-split-map)
 <img src="images/sentinel-fire-split-map.png?raw=true"/>
 
+Austin Texas School Transitsheds
+<img src="images/Austin_High_School_Transitsheds.jpg?raw=true"/><img src="images/Austin_Middle_School_Transitsheds.jpg?raw=true"/>
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
