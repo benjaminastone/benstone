@@ -4,7 +4,7 @@
 
 ### Past Projects
 
-[Suitability Study for Electric Vehicle Charging Stations](/suitability_study.md)
+Suitability Study for Electric Vehicle Charging Stations
 <img src="images/Stone_OU_MCDA_EV_Suitability_Study.jpg?raw=true"/>
 
 ---
