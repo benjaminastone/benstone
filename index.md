@@ -4,8 +4,9 @@
 
 ### Current Project
 
-Capstone Proposal: West Chicago’s Struggle Against Radioactivity and a Corporate Giant: 
-Utilizing Spatial Interpolation to Analyze Thorium Contamination
+[Capstone Proposal & Writing Sample: 
+West Chicago’s Struggle Against Radioactivity and a Corporate Giant: 
+Utilizing Spatial Interpolation to Analyze Thorium Contamination](/pdf/BStone_OU_Capstone_Proposal.pdf)
 <img src="images/Capstone_Basic_Premise_Map.png?raw=true"/>
 
 ### Past Projects
