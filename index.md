@@ -2,6 +2,12 @@
 
 ---
 
+### Current Project
+
+Capstone Proposal: West Chicago’s Struggle Against Radioactivity and a Corporate Giant: 
+Utilizing Spatial Interpolation to Analyze Thorium Contamination
+<img src="images/Capstone_Basic_Premise_Map.png?raw=true"/>
+
 ### Past Projects
 
 Suitability Study for Electric Vehicle Charging Stations
